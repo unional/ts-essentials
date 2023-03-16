@@ -1,5 +1,12 @@
 # ts-essentials
 
+## 9.3.2
+
+### Patch Changes
+
+- 8761667: `DeepPartial`, `DeepRequired`, `DeepWritable` and `DeepReadonly` can update structure of `Error` or interface
+  which extends `Error`
+
 ## 9.3.1
 
 ### Patch Changes
